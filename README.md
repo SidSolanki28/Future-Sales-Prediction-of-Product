@@ -15,4 +15,4 @@
 ---
 ## Links
 
-#### [Github](https://github.com/SidSolanki28/Predict-Future-Product-Sales)
+#### [Github Link](https://github.com/SidSolanki28/Predict-Future-Product-Sales)

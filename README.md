@@ -16,4 +16,7 @@
 ## Links
 
 #### [Report](https://sidsolanki28.github.io/Predict-Future-Product-Sales)
+
+#### [Notebook Link](https://nbviewer.jupyter.org/github/SidSolanki28/Predict-Future-Product-Sales/blob/master/predict_future_sales.ipynb)
+
 #### [Github Link](https://github.com/SidSolanki28/Predict-Future-Product-Sales)
